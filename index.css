@@ -1,0 +1,38 @@
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin: 53.6px 0px;
+    padding: 0px;
+}
+#demo > p{
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 35px 0px;
+    padding: 0px;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    /* margin: auto;
+    text-align: center;
+    display: inline-block; */
+}
+.btn{
+    margin: auto;
+    text-align: center;
+}
+button:hover{
+    background-color: green;
+}
+#demo > div > p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin: 35px 0;
+    padding: 0;
+    text-align: center;
+}
